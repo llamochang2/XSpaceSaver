@@ -8,7 +8,7 @@ X가 내려주는 playlist의 조각 경로(`transcode/...`)가 실제 파일 �
 
 | 폴더 | 대상 | 필요한 것 | 비고 |
 |---|---|---|---|
-| [`colab/`](colab/) | 누구나 (권장) | Google 계정 | 설치 불필요. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/llamochang2/XSpaseSaver/blob/main/colab/XSpaceSaver.ipynb) |
+| [`colab/`](colab/) | 누구나 (권장) | Google 계정 | 설치 불필요. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/llamochang2/XSpaceSaver/blob/main/colab/XSpaceSaver.ipynb) |
 | [`windows/`](windows/) | Windows 사용자 | ffmpeg (버튼으로 설치) | PowerShell GUI. `XSpaceSaver.bat` 더블클릭 |
 | [`python/`](python/) | 개발자 | Python 3.9+, ffmpeg | CLI. 표준 라이브러리만 사용 |
 

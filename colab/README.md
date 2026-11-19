@@ -1,6 +1,6 @@
 # XSpaceSaver - Colab 버전
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/llamochang2/XSpaseSaver/blob/main/colab/XSpaceSaver.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/llamochang2/XSpaceSaver/blob/main/colab/XSpaceSaver.ipynb)
 
 X Space 다시듣기 음성을 `master_playlist.m3u8` URL로 받아 m4a로 저장하는 Colab 노트북.
 설치 불필요 (Colab 기본 Python + ffmpeg 사용).
